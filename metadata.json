@@ -1,0 +1,6 @@
+{
+  "name": "Moneyball Analytics",
+  "description": "Sabermetric player analytics, team builder sandbox, and AI Scout evaluations inspired by the movie Moneyball.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
